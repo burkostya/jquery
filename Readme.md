@@ -15,6 +15,10 @@
 
   See [jQuery API](http://api.jquery.com/)
 
+## Build component from original jQuery
+
+    make component
+
 ## License
 
   MIT
