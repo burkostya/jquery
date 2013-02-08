@@ -2,7 +2,7 @@
   "name": "jquery",
   "repo": "burkostya/jquery",
   "description": "Fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "keywords": ["jquery", "dom", "animation", "ajax", "css"],
   "dependencies": {},
   "development": {},
